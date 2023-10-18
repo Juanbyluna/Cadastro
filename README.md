@@ -5,7 +5,6 @@ Projeto criado em sala de aula com ajuda do Professor Leonardo Santiago Sidon da
 * [Capa-do-Projeto](#capa-do-projeto) 
 * [Descrição](#descrição)   
 * [Funcionalidades](#funcionalidades)  
-* [Como usar](#como-usar)
 * [Tecologias utilizadas](#tecologias-utilizadas)  
 * [Fontes consultadas](#fontes-consultadas)  
 * [Autores](#autores)
