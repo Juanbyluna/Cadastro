@@ -26,7 +26,7 @@ const preencherFormulario = (endereco) => {
 // Função para consumo de API da via CEP
 const pesquisarCep = async() => {
       limparformulario();
-      const url = `http://viacep.com.br/ws/${cep.value}/json/`;
+      const url = `https://viacep.com.br/ws/${cep.value}/json/`;
  
       if (cepValido(cep.value)) {
             const dados = await fetch(url); //esperar
