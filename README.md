@@ -20,10 +20,6 @@ Este projeto tem a função de fazer um cintqto completo
 
 Possui uma Função que se você digitar seu cep o programa completará o endereço, bairro, Cidade, numero e o Estado
 
-## 📸Como usar
-
-<img src="imgs/Comousar.gif" (size:100px)>
-
 ### 🎨Tabela de cores
 
 * 🖤PRETO 
