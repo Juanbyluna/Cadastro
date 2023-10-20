@@ -22,7 +22,7 @@ Possui uma Função que se você digitar seu cep o programa completará o endere
 
 ## 📸Como usar
 
-<img src="imgs/Comousar.gif">
+<img src="imgs/Comousar.gif" (size:100px)>
 
 ### 🎨Tabela de cores
 
